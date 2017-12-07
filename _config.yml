@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: xxx@gmail.com
 description: "你别赤脚在这草地上散步，我的花园到处是星星的碎片。"
 keyword: "coding 法学僧 "
-url: "https://cheuky.bitcron.com"              # your host, for absolute URL
+url: "https://cheuky.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
